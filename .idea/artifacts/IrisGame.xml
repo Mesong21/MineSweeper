@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IrisGame">
+    <output-path>$PROJECT_DIR$/out/artifacts/IrisGame</output-path>
+    <root id="archive" name="IrisGame.jar">
+      <element id="module-output" name="MineSweeper" />
+    </root>
+  </artifact>
+</component>

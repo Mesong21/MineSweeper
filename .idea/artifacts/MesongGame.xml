@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MesongGame">
+    <output-path>$USER_HOME$/Desktop/MesongGame</output-path>
+    <root id="archive" name="MineSweeper.jar">
+      <element id="module-output" name="MineSweeper" />
+    </root>
+  </artifact>
+</component>
